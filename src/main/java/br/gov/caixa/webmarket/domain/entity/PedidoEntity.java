@@ -1,6 +1,5 @@
 package br.gov.caixa.webmarket.domain.entity;
 
-import br.gov.caixa.webmarket.domain.enums.SituacaoPedidoEnum;
 import jakarta.persistence.*;
 
 import java.time.LocalDateTime;

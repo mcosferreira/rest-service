@@ -2,7 +2,6 @@ package br.gov.caixa.webmarket.domain.entity;
 
 import jakarta.persistence.*;
 
-import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
 
